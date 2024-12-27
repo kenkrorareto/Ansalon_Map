@@ -1,0 +1,32 @@
+{
+    "points": [
+        {
+            "loc": [
+                624,
+                857
+            ],
+            "link": "Sesión 1",
+            "tooltip": "hover"
+        },
+        {
+            "loc": [
+                657,
+                878.5
+            ],
+            "link": "Sesión 2",
+            "tooltip": "hover"
+        }
+    ],
+    "lines": [
+        {
+            "start": [
+                624,
+                857
+            ],
+            "end": [
+                657,
+                878.5
+            ]
+        }
+    ]
+}
